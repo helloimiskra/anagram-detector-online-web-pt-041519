@@ -12,6 +12,6 @@ class Anagram
 
     some_word.sort == words.sort
   end
-    
+
 
 end
