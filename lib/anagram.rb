@@ -8,5 +8,6 @@ class Anagram
 
   def match(words)
     some_word = @word.split("")
+    some_word
   end
 end
