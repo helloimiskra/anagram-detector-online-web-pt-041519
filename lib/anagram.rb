@@ -12,7 +12,7 @@ class Anagram
       if x.split("").sort == some_word
         x
       else
-        []
+        
       end
     end
   end
