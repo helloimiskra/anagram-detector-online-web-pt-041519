@@ -13,7 +13,7 @@ class Anagram
         x
       else
 
-      end.concat
-    end
+      end
+    end.compact
   end
 end
